@@ -1,4 +1,5 @@
-# corporate-profile-generator
+<p align="center"><img src="poster.jpg"></p> 
+corporate-profile-generator
 Generating corporate profiles from the Web
 
 ## Problem
